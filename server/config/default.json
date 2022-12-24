@@ -1,0 +1,6 @@
+{
+    "port": 8081,
+    "mongoUri": "mongodb://localhost/income-expenses",
+    "accessSecret": "super secret from backed",
+    "refreshSecret": "super refresh key"
+}
